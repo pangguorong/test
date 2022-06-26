@@ -1,0 +1,17 @@
+1.java路人甲 
+	- spring 系列 https://mp.weixin.qq.com/s/E7wNLtU-453b9YC3XoUvqQ
+	- mybatis 系列 https://mp.weixin.qq.com/mp/homepage?__biz=MzA5MTkxMDQ4MQ==&hid=5&sn=2f7eca739b566b009d1128f0508e0e5b&scene=1&devicetype=Windows+7+x64&version=63020184&lang=zh_CN&nettype=WIFI&ascene=1&session_us=gh_6a32bacc9543&wx_header=1&uin=&key=&fontgear=2
+	
+2.java学习录
+	- spring 源码 https://mp.weixin.qq.com/s/PoQeVQ8x3DJhzswhUJl5xw
+	
+3.mybatis源码教程分析地址 http://coderead.cn
+
+4.设计模式 http://c.biancheng.net/view/1366.html
+
+5.源码地址（java学习录）
+http://mp.weixin.qq.com/mp/homepage?__biz=MzU5MDgzOTYzMw==&hid=3&sn=ee8e8ecbdc8d22253994debf927273f5&scene=18#wechat_redirect
+
+6.github下载地址 https://github.com/zzyandzzy/mybatis-book/tree/%E4%B8%80%E7%BA%A7%E7%BC%93%E5%AD%98%E8%A3%85%E9%A5%B0%E8%80%85
+
+1
